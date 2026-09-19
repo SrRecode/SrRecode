@@ -53,11 +53,11 @@ I work extensively with **AI-assisted development workflows and prompt engineeri
 
 ### 🏗️ Featured Projects
 
-#### 🌿 [SproutSphere](https://github.com/SrRecode)
+#### 🌿 [SproutSphere](https://github.com/SrRecode/SproutSphere) <!-- ⚠️ replace with real repo URL -->
 *MongoDB · Express.js · React 18 · Vite · Node.js · JWT Auth*
 A full-stack MERN application unifying three product surfaces into one platform — a personal plant-care tracker, a plant identification/encyclopedia module, and a community marketplace. Built solo end-to-end: React 18 + Vite frontend, RESTful Express/Node.js API, MongoDB data modeling, and JWT-based authentication.
 
-#### 🎓 [TeachFlow AI](https://github.com/SrRecode)
+#### 🎓 [TeachFlow AI](https://github.com/SrRecode/TeachFlow-AI) <!-- ⚠️ replace with real repo URL -->
 *NestJS · Next.js 15 · Redis · BullMQ · Stripe · Socket.io · Pinecone · Anthropic/OpenAI APIs*
 An EdTech SaaS platform built as a portfolio centerpiece. Combines a NestJS backend with a Next.js 15 frontend and AI-driven features powered by the Anthropic and OpenAI APIs, with real-time functionality via Socket.io, background job processing with BullMQ/Redis, Stripe billing, and Pinecone vector search. Structured and executed across a 25-phase development process.
 
@@ -89,19 +89,3 @@ A Jira + Trello + Slack-style project management platform with a built-in AI ass
 ---
 
 <p align="center"><i>Thanks for stopping by — let's connect!</i></p>
-
-
-<!--
-**SrRecode/SrRecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
