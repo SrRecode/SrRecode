@@ -53,25 +53,48 @@ I work extensively with **AI-assisted development workflows and prompt engineeri
 
 ### 🏗️ Featured Projects
 
-#### 🌿 [SproutSphere](https://github.com/SrRecode/SproutSphere) <!-- ⚠️ replace with real repo URL -->
-*MongoDB · Express.js · React 18 · Vite · Node.js · JWT Auth*
-A full-stack MERN application unifying three product surfaces into one platform — a personal plant-care tracker, a plant identification/encyclopedia module, and a community marketplace. Built solo end-to-end: React 18 + Vite frontend, RESTful Express/Node.js API, MongoDB data modeling, and JWT-based authentication.
+#### 📋 [Fullstack Todo MERN](https://github.com/SrRecode/fullstack-todo-mern)
+*React 18 · Node.js · Express · MongoDB · Mongoose*
+Full-stack todo app with persistent CRUD, priority levels, due dates, search, filtering, and sorting. Responsive design with modern UI.
 
-#### 🎓 [TeachFlow AI](https://github.com/SrRecode/TeachFlow-AI) <!-- ⚠️ replace with real repo URL -->
-*NestJS · Next.js 15 · Redis · BullMQ · Stripe · Socket.io · Pinecone · Anthropic/OpenAI APIs*
-An EdTech SaaS platform built as a portfolio centerpiece. Combines a NestJS backend with a Next.js 15 frontend and AI-driven features powered by the Anthropic and OpenAI APIs, with real-time functionality via Socket.io, background job processing with BullMQ/Redis, Stripe billing, and Pinecone vector search. Structured and executed across a 25-phase development process.
+#### 💬 [Real-Time Chat App](https://github.com/SrRecode/fullstack-chat-app)
+*React 18 · Node.js · Express · Socket.io*
+Real-time chat application with multiple rooms, online user tracking, typing indicators, and auto-scroll. Discord/Slack-inspired UI.
 
-#### ⌨️ TypeQuest
-*Next.js · TypeScript · Zustand · Vitest · GitHub Actions CI/CD*
-A gamified typing tutor, built end-to-end — starting as a vanilla HTML prototype before a full rebuild into a production Next.js app with automated testing and CI/CD.
+#### 🛒 [Fullstack Ecommerce](https://github.com/SrRecode/fullstack-ecommerce)
+*React 18 · Node.js · Express · MongoDB · Context API*
+Complete ecommerce platform with product catalog, shopping cart, checkout flow, order history, category filtering, and search.
 
-#### 🏏 Cricket Scoring App
-*React Native · Expo · SQLite*
-A mobile cricket scoring and tournament management app built across 8 phases (117 files), covering full tournament management, statistics tracking, and PDF/CSV export.
+#### 📱 [Social Media App](https://github.com/SrRecode/fullstack-social-media)
+*React 18 · Node.js · Express · MongoDB · Mongoose*
+Social media platform with posts, likes, comments, user profiles, and responsive modern UI.
 
-#### 📋 AI SaaS Project Management Platform
-*React · Next.js · TypeScript · NestJS · MongoDB · PostgreSQL · Redis · Docker*
-A Jira + Trello + Slack-style project management platform with a built-in AI assistant — covering workspaces, kanban boards, roles/permissions, analytics, and AI features like auto-generating project structures, summarizing discussions, and estimating task complexity.
+#### 🎓 [TeachFlow AI](https://github.com/SrRecode/teachflow)
+*Next.js 15 · TypeScript · Tailwind CSS*
+AI-powered EdTech platform — turn documents into lessons, quizzes, slides, flashcards and assignments.
+
+#### ⌨️ [TypeQuest](https://github.com/SrRecode/typequest)
+*Next.js 15 · TypeScript · Zustand · IndexedDB · Tailwind*
+Gamified typing tutor with multiple themes, worlds, missions, boss battles and a local AI coach.
+
+---
+
+### 📦 20 Small Projects
+
+A collection of 20 self-contained vanilla HTML/CSS/JS projects — [View Repo](https://github.com/SrRecode/20-small-projects)
+
+| # | Project | # | Project |
+|---|---------|---|---------|
+| 1 | [Todo List](https://github.com/SrRecode/20-small-projects/tree/main/01-todo-list) | 11 | [Recipe Finder](https://github.com/SrRecode/20-small-projects/tree/main/11-recipe-finder) |
+| 2 | [Calculator](https://github.com/SrRecode/20-small-projects/tree/main/02-calculator) | 12 | [Habit Tracker](https://github.com/SrRecode/20-small-projects/tree/main/12-habit-tracker) |
+| 3 | [Weather App](https://github.com/SrRecode/20-small-projects/tree/main/03-weather-app) | 13 | [URL Shortener](https://github.com/SrRecode/20-small-projects/tree/main/13-url-shortener) |
+| 4 | [Quiz App](https://github.com/SrRecode/20-small-projects/tree/main/04-quiz-app) | 14 | [Drawing App](https://github.com/SrRecode/20-small-projects/tree/main/14-drawing-app) |
+| 5 | [Pomodoro Timer](https://github.com/SrRecode/20-small-projects/tree/main/05-pomodoro-timer) | 15 | [Music Player](https://github.com/SrRecode/20-small-projects/tree/main/15-music-player) |
+| 6 | [Note App](https://github.com/SrRecode/20-small-projects/tree/main/06-note-app) | 16 | [Countdown Timer](https://github.com/SrRecode/20-small-projects/tree/main/16-countdown-timer) |
+| 7 | [Password Generator](https://github.com/SrRecode/20-small-projects/tree/main/07-password-generator) | 17 | [BMI Calculator](https://github.com/SrRecode/20-small-projects/tree/main/17-bmi-calculator) |
+| 8 | [Color Palette](https://github.com/SrRecode/20-small-projects/tree/main/08-color-palette) | 18 | [Currency Converter](https://github.com/SrRecode/20-small-projects/tree/main/18-currency-converter) |
+| 9 | [Markdown Preview](https://github.com/SrRecode/20-small-projects/tree/main/09-markdown-preview) | 19 | [Word Counter](https://github.com/SrRecode/20-small-projects/tree/main/19-word-counter) |
+| 10 | [Expense Tracker](https://github.com/SrRecode/20-small-projects/tree/main/10-expense-tracker) | 20 | [Tip Calculator](https://github.com/SrRecode/20-small-projects/tree/main/20-tip-calculator) |
 
 ---
 
