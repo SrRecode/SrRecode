@@ -77,6 +77,14 @@ AI-powered EdTech platform — turn documents into lessons, quizzes, slides, fla
 *Next.js 15 · TypeScript · Zustand · IndexedDB · Tailwind*
 Gamified typing tutor with multiple themes, worlds, missions, boss battles and a local AI coach.
 
+#### 📔 [Life Journal](https://github.com/SrRecode/life-journal)
+*React · JavaScript · Local Storage*
+Personal journaling app for daily entries, reflections, and tracking life moments.
+
+#### 🔐 [Password Vault](https://github.com/SrRecode/password-vault)
+*React · JavaScript · Local Storage*
+Secure password manager to store, organize, and manage credentials locally.
+
 ---
 
 ### 📦 20 Small Projects
